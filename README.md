@@ -92,7 +92,7 @@ Figma link: [View wireframes on Figma here](https://www.figma.com/file/aZZHdxIO3
 ![image](https://user-images.githubusercontent.com/111889289/229870536-1854a709-fef0-4ced-a972-f49f7149c91d.png)
 
 ### Mobile view - About page
-![image](https://user-images.githubusercontent.com/111889289/229870614-461906a4-1cbc-4cdd-96a4-db006b0d0173.png)
+![image](https://user-images.githubusercontent.com/111889289/229870821-af5ebc9c-9a73-404d-9f6f-dc1e9691dd37.png)
 
 
 
